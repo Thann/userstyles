@@ -1,0 +1,17 @@
+/* DARK sc2casts.com */
+
+@-moz-document domain(sc2casts.com) {
+	body, #main_container, #sub_container, .rightWrapper, .forums, .streams, input {
+		color: white;
+		background-color: #353535;
+	}
+
+	.menu, .menu * {
+		color: #a6a6a6 !important;
+	}
+
+	b, #toggle_links a, .swap_links a, .footer a {
+		color: #0863a7;
+	}
+}
+
